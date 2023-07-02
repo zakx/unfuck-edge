@@ -12,6 +12,8 @@ Put `com.microsoft.Edge.plist` into `/Library/Managed Preferences` and restart E
 
 In case it isn't directly obvious if it worked, you can confirm that the policies are active by going to `edge://policy` in Edge.
 
+Note: Edge seems to cache this file until you reboot, so updating the file when it already existed usually requires a reboot.
+
 ## Caveats
 
 On my unmanaged Macs, `/Library/Managed Preferences` gets wiped on every reboot.
