@@ -65,3 +65,11 @@ It will disable the following annoyances:
 - Reduce the user-agent header
 
 If you disagree with any of these, or if you think something is missing, see [the official reference](https://learn.microsoft.com/en-gb/DeployEdge/microsoft-edge-policies) for inspiration.
+
+Also, you can [watch this](https://github.com/MicrosoftDocs/Edge-Enterprise/commits/public/edgeenterprise/microsoft-edge-policies.md) for any new bad ideas as they come up.
+
+## Before
+![Before](https://github.com/zakx/unfuck-edge/assets/628602/07580cec-447e-4672-93f2-3e6f38627f1c)
+
+## After
+![After](https://github.com/zakx/unfuck-edge/assets/628602/1bb200bd-8710-4d2f-be42-e570f71ed0c6)
