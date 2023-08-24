@@ -18,6 +18,8 @@ Note: Edge seems to cache this file until you reboot, so updating the file when 
 
 On my unmanaged Macs, `/Library/Managed Preferences` gets wiped on every reboot.
 
+Starting with Edge 116, Microsoft has decided that [most policies](https://learn.microsoft.com/en-us/DeployEdge/edge-learnmore-personal-browser-policies) are no longer available for "personal browsing" and therefore get ignored. Your usage is considered "personal browsing" if you are logged into Edge with a personal Microsoft account. As a workaround, you can either sign out or use a "Work profile" (to which you cannot login with a private Microsoft account). As a result, I no longer have sync functionality in my Edge installation. You can also share your feedback on this new feature. They would allegedly "value your feedback".
+
 # What will it actually do?
 
 It will disable the following annoyances:
@@ -65,13 +67,17 @@ It will disable the following annoyances:
 - Disable annoying reverse search on-hover menu on images
 - Disable first run "experience"
 - Reduce the user-agent header
+- Disable the Browser Essentials toolbar button
+- Disable Bing Chat
 
 If you disagree with any of these, or if you think something is missing, see [the official reference](https://learn.microsoft.com/en-gb/DeployEdge/microsoft-edge-policies) for inspiration.
 
 Also, you can [watch this](https://github.com/MicrosoftDocs/Edge-Enterprise/commits/public/edgeenterprise/microsoft-edge-policies.md) for any new bad ideas as they come up.
 
 ## Before
+
 ![Before](https://github.com/zakx/unfuck-edge/assets/628602/07580cec-447e-4672-93f2-3e6f38627f1c)
 
 ## After
+
 ![After](https://github.com/zakx/unfuck-edge/assets/628602/1bb200bd-8710-4d2f-be42-e570f71ed0c6)
