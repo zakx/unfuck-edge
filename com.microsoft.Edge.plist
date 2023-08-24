@@ -137,5 +137,7 @@
  <integer>2</integer>
  <key>WalletDonationEnabled</key>
  <false/>
+ <key>PinBrowserEssentialsToolbarButton</key>
+ <false/>
 </dict>
 </plist>
