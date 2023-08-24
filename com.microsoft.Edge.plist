@@ -139,5 +139,7 @@
  <false/>
  <key>PinBrowserEssentialsToolbarButton</key>
  <false/>
+ <key>DiscoverPageContextEnabled</key>
+ <false/>
 </dict>
 </plist>
