@@ -89,8 +89,11 @@
  <integer>3</integer>
  <key>UserFeedbackAllowed</key>
  <false/>
+ <!--
+ Temporary workaround for https://github.com/MicrosoftDocs/Edge-Enterprise/issues/598
  <key>VerticalTabsAllowed</key>
  <false/>
+ -->
  <key>VisualSearchEnabled</key>
  <false/>
  <key>NewTabPageLocation</key>
