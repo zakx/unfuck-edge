@@ -141,5 +141,7 @@
  <false/>
  <key>DiscoverPageContextEnabled</key>
  <false/>
+ <key>PictureInPictureOverlayEnabled</key>
+ <false/>
 </dict>
 </plist>
