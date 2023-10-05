@@ -143,5 +143,7 @@
  <false/>
  <key>PictureInPictureOverlayEnabled</key>
  <false/>
+ <key>NewTabPageBingChatEnabled</key>
+ <false/>
 </dict>
 </plist>
